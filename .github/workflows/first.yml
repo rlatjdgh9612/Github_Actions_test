@@ -10,6 +10,6 @@ jobs :
     runs-on: ubuntu-latest
     steps:
       - name: Print working directory
-      - run: pwd
+        run: pwd
       - name: List files 
-      - run: ls -al
+        run: ls -al
