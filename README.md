@@ -1,4 +1,4 @@
-# Github_Actions_test
+# Github_Actions_workflow
 
 ### 이 내용은 현업에서 자주 사용하는 Github_Actions를 실습해보기 위한 용도로 제작되었습니다.
 
@@ -6,6 +6,10 @@
 
 ### 날짜
 - 2024.01.11(목)
+
+### version 업데이트
+- 0.10.0 ver : 기본 workflow 파이프라인 내용 정리 및 초기설정
+- 0.11.0 ver : first.yml 파일 작성
 
 ### 참고사항 : Github Action 요소 종류
 
